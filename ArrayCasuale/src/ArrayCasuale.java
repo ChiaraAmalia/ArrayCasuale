@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.lang.Math;
-
+//scrivo a caso
 public class ArrayCasuale {
 
 	public static void main(String[] args) {
